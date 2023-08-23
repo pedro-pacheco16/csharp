@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\bin\Debug\net7.0\calculadora.exe
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\bin\Debug\net7.0\calculadora.deps.json
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\bin\Debug\net7.0\calculadora.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\bin\Debug\net7.0\calculadora.dll
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\bin\Debug\net7.0\calculadora.pdb
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\obj\Debug\net7.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\obj\Debug\net7.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\obj\Debug\net7.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\obj\Debug\net7.0\calculadora.dll
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\obj\Debug\net7.0\refint\calculadora.dll
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\obj\Debug\net7.0\calculadora.pdb
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\obj\Debug\net7.0\calculadora.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp\aula02\calculadora\obj\Debug\net7.0\ref\calculadora.dll

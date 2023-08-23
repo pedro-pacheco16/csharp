@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\bin\Debug\net7.0\atribuicao.exe
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\bin\Debug\net7.0\atribuicao.deps.json
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\bin\Debug\net7.0\atribuicao.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\bin\Debug\net7.0\atribuicao.dll
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\bin\Debug\net7.0\atribuicao.pdb
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\obj\Debug\net7.0\atribuicao.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\obj\Debug\net7.0\atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\obj\Debug\net7.0\atribuicao.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\obj\Debug\net7.0\atribuicao.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\obj\Debug\net7.0\atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\obj\Debug\net7.0\atribuicao.dll
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\obj\Debug\net7.0\refint\atribuicao.dll
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\obj\Debug\net7.0\atribuicao.pdb
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\obj\Debug\net7.0\atribuicao.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp\aula02\atribuicao\obj\Debug\net7.0\ref\atribuicao.dll
