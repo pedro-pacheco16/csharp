@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\bin\Debug\net7.0\exercicioCondicional.exe
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\bin\Debug\net7.0\exercicioCondicional.deps.json
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\bin\Debug\net7.0\exercicioCondicional.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\bin\Debug\net7.0\exercicioCondicional.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\bin\Debug\net7.0\exercicioCondicional.pdb
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\obj\Debug\net7.0\exercicioCondicional.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\obj\Debug\net7.0\exercicioCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\obj\Debug\net7.0\exercicioCondicional.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\obj\Debug\net7.0\exercicioCondicional.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\obj\Debug\net7.0\exercicioCondicional.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\obj\Debug\net7.0\exercicioCondicional.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\obj\Debug\net7.0\refint\exercicioCondicional.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\obj\Debug\net7.0\exercicioCondicional.pdb
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\obj\Debug\net7.0\exercicioCondicional.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\exercicioCondicional\obj\Debug\net7.0\ref\exercicioCondicional.dll

@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.exe
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.deps.json
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.pdb
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\obj\Debug\net7.0\refint\PlanoDeSaude.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.pdb
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\PlanoDeSaude\obj\Debug\net7.0\ref\PlanoDeSaude.dll

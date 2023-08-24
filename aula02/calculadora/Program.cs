@@ -14,8 +14,17 @@
             divisao = numero1 / numero2;
             Console.WriteLine($"{numero1} + {numero2} = " + (numero1 + numero2));//numeros dentro das chaves guarda o valor digitado
             Console.WriteLine($"{numero1} - {numero2} = " + (numero1 - numero2));
-            Console.WriteLine($"{numero1} * {numero2} = " + (numero1 * numero2));
-            Console.WriteLine($"{numero1} / {numero2} =  {divisao:F2}");
+            Console.WriteLine($"{numero1} * {numero2} = " + (numero1 * numero2)); 
+             
+            if(numero2 > 0)
+            {
+                Console.WriteLine($"{numero1} / {numero2} =  {divisao:F2}");
+            }
+            else
+            {
+                Console.WriteLine("Não existe divisão por zero!!");
+            }
+
             Console.WriteLine($"{numero1} ^ {numero2} = " + Math.Pow(numero1, numero2));
             Console.WriteLine($"raiz quadrada de {numero1} = " + Math.Sqrt(numero2));
         }
