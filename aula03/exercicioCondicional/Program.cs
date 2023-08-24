@@ -23,7 +23,7 @@
             }else if(soma < c)
             {
                 Console.WriteLine("A Soma de A + B é Menor do que C");
-            }else if(soma == c)
+            }else 
             {
                 Console.WriteLine("A Soma de A + B é Igual a C");
             }
