@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\bin\Debug\net7.0\exercicio_Do_While.exe
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\bin\Debug\net7.0\exercicio_Do_While.deps.json
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\bin\Debug\net7.0\exercicio_Do_While.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\bin\Debug\net7.0\exercicio_Do_While.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\bin\Debug\net7.0\exercicio_Do_While.pdb
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\obj\Debug\net7.0\exercicio_Do_While.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\obj\Debug\net7.0\exercicio_Do_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\obj\Debug\net7.0\exercicio_Do_While.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\obj\Debug\net7.0\exercicio_Do_While.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\obj\Debug\net7.0\exercicio_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\obj\Debug\net7.0\exercicio_Do_While.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\obj\Debug\net7.0\refint\exercicio_Do_While.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\obj\Debug\net7.0\exercicio_Do_While.pdb
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\obj\Debug\net7.0\exercicio_Do_While.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_Do_While\obj\Debug\net7.0\ref\exercicio_Do_While.dll
