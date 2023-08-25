@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\bin\Debug\net7.0\pesquisa.exe
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\bin\Debug\net7.0\pesquisa.deps.json
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\bin\Debug\net7.0\pesquisa.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\bin\Debug\net7.0\pesquisa.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\bin\Debug\net7.0\pesquisa.pdb
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\obj\Debug\net7.0\pesquisa.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\obj\Debug\net7.0\pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\obj\Debug\net7.0\pesquisa.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\obj\Debug\net7.0\pesquisa.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\obj\Debug\net7.0\pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\obj\Debug\net7.0\pesquisa.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\obj\Debug\net7.0\refint\pesquisa.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\obj\Debug\net7.0\pesquisa.pdb
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\obj\Debug\net7.0\pesquisa.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\pesquisa\obj\Debug\net7.0\ref\pesquisa.dll
