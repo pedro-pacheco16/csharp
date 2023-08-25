@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\bin\Debug\net7.0\exercicio_while.exe
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\bin\Debug\net7.0\exercicio_while.deps.json
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\bin\Debug\net7.0\exercicio_while.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\bin\Debug\net7.0\exercicio_while.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\bin\Debug\net7.0\exercicio_while.pdb
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\obj\Debug\net7.0\exercicio_while.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\obj\Debug\net7.0\exercicio_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\obj\Debug\net7.0\exercicio_while.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\obj\Debug\net7.0\exercicio_while.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\obj\Debug\net7.0\exercicio_while.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\obj\Debug\net7.0\exercicio_while.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\obj\Debug\net7.0\refint\exercicio_while.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\obj\Debug\net7.0\exercicio_while.pdb
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\obj\Debug\net7.0\exercicio_while.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio_while\obj\Debug\net7.0\ref\exercicio_while.dll
