@@ -18,7 +18,7 @@
             }
             } while (numero != 0);
 
-            Console.WriteLine($"soma dos número positivos: {somaPositivo}");
+            Console.WriteLine($"soma dos números positivos: {somaPositivo}");
 
         }
     }
