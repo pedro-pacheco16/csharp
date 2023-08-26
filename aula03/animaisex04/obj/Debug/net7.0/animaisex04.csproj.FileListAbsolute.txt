@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\bin\Debug\net7.0\animaisex04.exe
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\bin\Debug\net7.0\animaisex04.deps.json
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\bin\Debug\net7.0\animaisex04.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\bin\Debug\net7.0\animaisex04.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\bin\Debug\net7.0\animaisex04.pdb
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\obj\Debug\net7.0\animaisex04.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\obj\Debug\net7.0\animaisex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\obj\Debug\net7.0\animaisex04.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\obj\Debug\net7.0\animaisex04.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\obj\Debug\net7.0\animaisex04.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\obj\Debug\net7.0\animaisex04.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\obj\Debug\net7.0\refint\animaisex04.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\obj\Debug\net7.0\animaisex04.pdb
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\obj\Debug\net7.0\animaisex04.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\animaisex04\obj\Debug\net7.0\ref\animaisex04.dll
