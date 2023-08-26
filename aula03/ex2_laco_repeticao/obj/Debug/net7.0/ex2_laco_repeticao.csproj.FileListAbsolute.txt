@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\bin\Debug\net7.0\ex2_laco_repeticao.exe
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\bin\Debug\net7.0\ex2_laco_repeticao.deps.json
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\bin\Debug\net7.0\ex2_laco_repeticao.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\bin\Debug\net7.0\ex2_laco_repeticao.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\bin\Debug\net7.0\ex2_laco_repeticao.pdb
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\obj\Debug\net7.0\ex2_laco_repeticao.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\obj\Debug\net7.0\ex2_laco_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\obj\Debug\net7.0\ex2_laco_repeticao.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\obj\Debug\net7.0\ex2_laco_repeticao.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\obj\Debug\net7.0\ex2_laco_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\obj\Debug\net7.0\ex2_laco_repeticao.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\obj\Debug\net7.0\refint\ex2_laco_repeticao.dll
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\obj\Debug\net7.0\ex2_laco_repeticao.pdb
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\obj\Debug\net7.0\ex2_laco_repeticao.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp\aula03\ex2_laco_repeticao\obj\Debug\net7.0\ref\ex2_laco_repeticao.dll
