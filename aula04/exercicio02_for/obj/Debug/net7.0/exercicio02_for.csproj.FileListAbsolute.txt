@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\bin\Debug\net7.0\exercicio02_for.exe
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\bin\Debug\net7.0\exercicio02_for.deps.json
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\bin\Debug\net7.0\exercicio02_for.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\bin\Debug\net7.0\exercicio02_for.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\bin\Debug\net7.0\exercicio02_for.pdb
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\obj\Debug\net7.0\exercicio02_for.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\obj\Debug\net7.0\exercicio02_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\obj\Debug\net7.0\exercicio02_for.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\obj\Debug\net7.0\exercicio02_for.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\obj\Debug\net7.0\exercicio02_for.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\obj\Debug\net7.0\exercicio02_for.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\obj\Debug\net7.0\refint\exercicio02_for.dll
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\obj\Debug\net7.0\exercicio02_for.pdb
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\obj\Debug\net7.0\exercicio02_for.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp\aula04\exercicio02_for\obj\Debug\net7.0\ref\exercicio02_for.dll
