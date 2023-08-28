@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exer01_vetores/1.0.0": {
+        "runtime": {
+          "exer01_vetores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exer01_vetores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
