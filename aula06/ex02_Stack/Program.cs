@@ -15,7 +15,7 @@
 
                 Console.WriteLine("1 - Adicionar Livro na Pilha");
                 Console.WriteLine("2 - Listar todos os Livros");
-                Console.WriteLine("3 - Retirar Livro Pilha");
+                Console.WriteLine("3 - Retirar Livro da Pilha");
                 Console.WriteLine("0 - Sair");
 
                 Console.WriteLine("\n************************************************************************************");
@@ -75,6 +75,9 @@
                     {
                         Console.WriteLine("A livraria está vazia!\n");
                     }
+                }else if(codigo < 0 || codigo > 3)
+                {
+                    Console.WriteLine("Digite uma opção válida!\n");
                 }
 
             } while (codigo != 0);
