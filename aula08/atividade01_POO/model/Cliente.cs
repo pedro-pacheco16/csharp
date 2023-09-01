@@ -10,15 +10,15 @@ namespace atividade01_POO.model
     {
         private int id;
         private string nome = string.Empty;
-        private string cpf = string.Empty;
+        private string Doc = string.Empty;
         private int telefone;
         private string endereco = string.Empty;
 
-        public Cliente(int id, string nome, string cpf, int telefone, string endereco)
+        public Cliente(int id, string nome, string Doc, int telefone, string endereco)
         {
             this.id = id;
             this.nome = nome;
-            this.cpf = cpf;
+            this.Doc = Doc;
             this.telefone = telefone;
             this.endereco = endereco;
         }
@@ -41,14 +41,15 @@ namespace atividade01_POO.model
             this.nome = nome;
         }
 
-        public string GetCpf()
+        public string GetDoc()
         {
-            return cpf;
+            return Doc;
         }
 
-        public void SetCpf(string cpf)
-        {
-            this.cpf = cpf;
+        public void SetDoc(string Doc)
+        {   
+
+            this.Doc = Doc;
         }
 
         public int GetTelefone()
@@ -58,6 +59,7 @@ namespace atividade01_POO.model
 
         public void SetTelefone(int telefone)
         {
+          
             this.telefone = telefone;
         }
 
@@ -71,16 +73,29 @@ namespace atividade01_POO.model
             this.endereco = endereco;
         }
 
-        public void visualizar()
+        public virtual void visualizar()
         {
+            string TipoCliente = string.Empty;
+            switch (this.id)
+            {
+                case 1:
+                    TipoCliente = "Pessoa Juridica\nCNPJ do Cliente: " + this.Doc;
+                break;
+
+                case 2:
+                    TipoCliente = "Pessoa fisica\nCPF do Cliente: " + this.Doc;
+                break;
+            }
+
+
             Console.WriteLine("\n\n*********************************************************************");
             Console.WriteLine("Dados do Cliente:");
             Console.WriteLine("*********************************************************************");
-            Console.WriteLine("Numero do id: " + this.id);
+            Console.WriteLine($"Tipo do Cliente: {TipoCliente}");
             Console.WriteLine("Nome: " + this.nome);
-            Console.WriteLine("cpf: " + cpf);
             Console.WriteLine("Telefone: " + this.telefone);
             Console.WriteLine("endereco: " + this.endereco);
+            
 
         }
     }
