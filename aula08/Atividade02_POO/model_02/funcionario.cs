@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtivRMade02_POO.model_02
+namespace Atividade02_POO.model_02
 {
     public class funcionario
     {
@@ -71,7 +71,7 @@ namespace AtivRMade02_POO.model_02
             this.empresa = empresa;
         }
 
-        public void visualizar()
+        public virtual void visualizar()
         {
             Console.WriteLine("\n\n*********************************************************************");
             Console.WriteLine("Dados do Funcionário:");
