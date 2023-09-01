@@ -14,13 +14,21 @@ namespace atividade01_POO
 
             c2.visualizar();
 
-            PessoaFisica Pf = new PessoaFisica(2, "josé", "234.546.299 - 05", 932381779, "Rua Lagoa da Prata", 700);
+            PessoaFisica Pf1 = new PessoaFisica(2, "josé", "234.546.299 - 05", 932381779, "Rua Lagoa da Prata", 700);
 
-            Pf.visualizar();
+            Pf1.visualizar();
 
-            PessoaJuridica Pj = new PessoaJuridica(1, "Marta", "345.567.567 -08", 908765432, "Rua trimundial", 10000);
+            PessoaFisica Pf2 = new PessoaFisica(2, "Carlos", "500.459.300 - 20 ", 93456780, "Rua Antônio da Silva", 800);
 
-            Pj.visualizar();
+            Pf2.visualizar();
+
+            PessoaJuridica Pj1 = new PessoaJuridica(1, "Marta", "345.567.567 -08", 908765432, "Rua trimundial", 10000);
+
+            Pj1.visualizar();
+
+            PessoaJuridica Pj2 = new PessoaJuridica(1, "Paula", "355.577.587 -07", 918775482, "Rua javascript", 20000);
+
+            Pj2.visualizar();
         }
     }
 }
